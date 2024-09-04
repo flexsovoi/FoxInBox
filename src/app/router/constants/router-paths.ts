@@ -1,0 +1,16 @@
+export const ROUTER_PATH = {
+    LOGIN: '/login',
+    REPORTS: '/reports',
+    TASKS: '/tasks',
+    USERS: '/users',
+    ORDERS: '/orders',
+    KNOWLEDGE_BASE: '/knowledge-base',
+    NEWS: '/news',
+    TRAINING: '/training',
+    ANALYTICS: '/analytics',
+    SKU: '/sku',
+    FAQ: '/faq',
+    MAILING: '/mailing',
+    FEEDBACK: '/feedback',
+    AUTH: '/auth',
+};
