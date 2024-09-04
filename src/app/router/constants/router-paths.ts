@@ -1,6 +1,6 @@
 export const ROUTER_PATH = {
+    REPORTS: '/',
     LOGIN: '/login',
-    REPORTS: '/reports',
     TASKS: '/tasks',
     USERS: '/users',
     ORDERS: '/orders',
